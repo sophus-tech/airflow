@@ -12,7 +12,7 @@ Repository for airflow related artifacts and resources including best practices,
 
 - [Airflow Best practices and standards](docs/airflow_best_practices_standards.md)
 - [Airflow Cheatsheet](docs/airflow_cheatsheet.md)
-- [Python Best Practices and Standards](https://github.ibm.com/data-engineering/python/docs/python_best_practices_standards.md)
+- [Python Best Practices and Standards](https://github.com/python/docs/python_best_practices_standards.md)
 
   Airflow uses python as programming language to create DAGs. Please use the best practices and standards defined in this document before start working your first DAG.
 
@@ -40,4 +40,4 @@ Repository for airflow related artifacts and resources including best practices,
 
 ### Contacts
 
-ramesh.sigamani@ibm.com
+ramesh.sigamani@sophus.io
