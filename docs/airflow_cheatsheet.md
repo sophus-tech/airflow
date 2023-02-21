@@ -8,7 +8,7 @@ Practice, Practice, Practice!! Perfect practice makes you perfect. When you are 
 
 ### Installation
 
-Use the following command to quickly install airflow on the host machine. Airflow can be dockerized and docker version of airflow is available [here](https://github.ibm.com/data-engineering/docker-airflow)
+Use the following command to quickly install airflow on the host machine. Airflow can be dockerized and docker version of airflow is available [here](https://github.com/data-engineering/docker-airflow)
 
 ```code
 # airflow needs a home, ~/airflow is the default,

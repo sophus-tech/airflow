@@ -11,10 +11,10 @@ Tasks:
 '''
 
 __author__ = 'Ramesh Sigamani'
-__copyright__ = '(c) Copyright IBM Corporation 2021'
+__copyright__ = '(c) Copyright Sophus Technologies 2021'
 __credits__ = ['Ramesh S']
-__maintainer__ = 'IBM CBDS DPS'
-__email__ = 'ramesh.sigamani@ibm.com'
+__maintainer__ = 'Sophus Technologies'
+__email__ = 'ramesh.sigamani@sophus.io'
 
 # Standard library imports
 from datetime import timedelta
